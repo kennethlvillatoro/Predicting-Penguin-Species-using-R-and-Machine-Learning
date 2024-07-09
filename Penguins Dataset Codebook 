@@ -1,0 +1,9 @@
+Codebook for Penguins dataset:
+  
+- species: penguin species (Chinstrap, Adélie, or Gentoo)
+- culmen_length_mm: culmen length (mm)
+- culmen_depth_mm: culmen depth (mm)
+- flipper_length_mm: flipper length (mm)
+- body_mass_g: body mass (g)
+- island: island name (Dream, Torgersen, or Biscoe) in the Palmer Archipelago (Antarctica)
+- sex: penguin sex
